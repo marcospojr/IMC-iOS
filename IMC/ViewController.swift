@@ -45,7 +45,7 @@ class ViewController: UIViewController {
                 image = "abaixo"
             case 16..<18.5:
                 result = "Abaixo do peso"
-                image = "abaixo "
+                image = "abaixo"
             case 18.5..<25:
                 result = "Peso ideal"
                 image = "ideal"
